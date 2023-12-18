@@ -1,0 +1,59 @@
+header{
+	background-color: rgb(62, 85, 116);
+	
+}
+.lien:link{
+	color:rgb(215, 198, 198);
+}
+.lien:visited{
+	color:black;
+}
+.lien:hover{
+	color:rgb(49, 17, 62);
+	text-decoration:none;
+}
+.Lien:active{
+	color:green
+}
+.allcont{
+    background-color: rgb(169, 160, 160)
+}
+.competences{
+    background-color:  rgb(62, 85, 116)
+}
+.experiences{
+    background-color: rgb(169, 160, 160)
+}
+.general{
+    background-color:  rgb(169, 160, 160)
+}
+.formations{
+    background-color:  rgb(62, 85, 116)
+}
+.contact{
+    background-color:  rgb(169, 160, 160)
+}
+body{
+	font-family:Arial;
+	margin: 0px;
+    padding:0px;
+}
+h2{
+	text-decoration:underline;
+	color: rgb(118, 92, 92);
+	margin:10px;
+	padding:10px;	
+}
+.l1{
+    background-color: rgb(169, 160, 160)
+}
+.l2{
+    background-color:  rgb(62, 85, 116)
+}
+.l3{
+    background-color: rgb(169, 160, 160)
+}
+h2:hover{ 
+    text-shadow: 6px 8px 2px rgb(61, 7, 61),5px 5px 9px rgb(8, 8, 72);
+    }
+    
